@@ -12,3 +12,4 @@ i at man har en fysikkmotor og den slags. Her kan man også programmere, så man
 # Oppgave 1
 Det er kanskje ikke så mye en oppgave som bare at vi lager noe greier.
 
+Det første vi gjør er å lage et nytt prosjekt. Jeg bruker Unreal 4.26 nå men det bør gå i mange andre versjoner, vi skal ikke bruke så avanserte ting.
