@@ -16,6 +16,8 @@ Det første vi gjør er å lage et nytt prosjekt. Jeg bruker Unreal 4.26 nå men
 Velg nytt "Film, Televisino, and Live Events".
 
 ![nytt prosjekt](https://user-images.githubusercontent.com/1174441/102125734-6b156b80-3e4a-11eb-806e-05df0fdc23f2.png)
-![blank template] (https://user-images.githubusercontent.com/1174441/102125690-5afd8c00-3e4a-11eb-99a7-1ad1517501e5.png)
-![ta med starter content] (https://user-images.githubusercontent.com/1174441/102125793-79fc1e00-3e4a-11eb-83a3-66a1de75b52f.png)
+
+![blank template](https://user-images.githubusercontent.com/1174441/102125690-5afd8c00-3e4a-11eb-99a7-1ad1517501e5.png)
+
+![ta med starter content](https://user-images.githubusercontent.com/1174441/102125793-79fc1e00-3e4a-11eb-83a3-66a1de75b52f.png)
 
