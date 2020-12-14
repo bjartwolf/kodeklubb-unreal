@@ -40,3 +40,6 @@ Da kan vi lage den her
 ![skru av](https://user-images.githubusercontent.com/1174441/102133791-f3e5d480-3e55-11eb-852c-ab36f2535575.png)
 
 Så hva skjer når vi spiller? Nå kan vi diskutere om vi ikke er tilbake til start igjen...
+
+Da skal vi lære å debugge. Da må vi først legge til et breakpoint.
+![breakpoint](https://user-images.githubusercontent.com/1174441/102133982-3d362400-3e56-11eb-98fb-8271653a9c26.png)
