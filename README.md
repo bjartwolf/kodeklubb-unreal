@@ -71,3 +71,6 @@ Husk simualte physics
 ![lage incredible machine](https://user-images.githubusercontent.com/1174441/102136957-63f65980-3e5a-11eb-805c-bf1d0d594901.png)
 
 De kan vi bare skru av visibility manuelt på. Gjerne endre farge pålyset.
+
+For each
+![for each] (https://user-images.githubusercontent.com/1174441/102139961-d8cb9280-3e5e-11eb-8586-84b49d74dac7.png)
