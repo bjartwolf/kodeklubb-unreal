@@ -51,3 +51,6 @@ La oss lage en box trigger. Sett den mellom spilleren og lyset og lag den litt s
 Triggerboxen må være valgt, da får man context sensitive meny.
 koble til
 ![overlap](https://user-images.githubusercontent.com/1174441/102135152-d74a9c00-3e57-11eb-92a2-42737ed3993f.png)
+
+Copy-paste set visibility.
+![foo](https://user-images.githubusercontent.com/1174441/102135291-0bbe5800-3e58-11eb-978d-e6377a5371e5.png)
