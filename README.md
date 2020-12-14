@@ -10,8 +10,10 @@ i at man har en fysikkmotor og den slags. Her kan man også programmere, så man
 
 For å gjøre dette må man laste ned og installere [Unreal Engine](https://www.unrealengine.com/) 
 
-# Oppgave 1
+# Oppgave 1 - lage litt lysstyring
 Det er kanskje ikke så mye en oppgave som bare at vi lager noe greier.
+Det er på ingen måte ment å være "riktig" måte å styre lys på, det antar jeg man gjøre med DMX eller no hvis man skal gjøre noe tøft. 
+Hensikten er bare å ha noe å styre. Men det kan jo fort være riktig også. Hvem vet. Spørs hva du skal.
 
 Det første vi gjør er å lage et nytt prosjekt. Jeg bruker Unreal 4.26 nå men det bør gå i mange andre versjoner, vi skal ikke bruke så avanserte ting.
 Velg nytt "Film, Televisino, and Live Events".
