@@ -29,4 +29,4 @@ Det kan ta litt tid.
 Jeg drar inn et *Point light* og så flytter jeg spilleren til kanten av brettet.
 ![Point light](https://user-images.githubusercontent.com/1174441/102131530-a0be5280-3e52-11eb-9301-4fb4692cbccf.png)
 
-Når man da trykker play eller <kbd>alt</kbd><kbd>shift</kbd> <kbd>p</kbd>
+Når man da trykker play eller <kbd>alt</kbd><kbd>p</kbd> så burde man se et lite lys.
