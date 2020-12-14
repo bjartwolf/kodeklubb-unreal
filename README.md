@@ -45,20 +45,26 @@ Da skal vi lære å debugge. Da må vi først legge til et breakpoint.
 ![breakpoint](https://user-images.githubusercontent.com/1174441/102133982-3d362400-3e56-11eb-98fb-8271653a9c26.png)
 Ikke så mye ennå, men kan bli nyttig..
 
+
+
 La oss lage en box trigger. Sett den mellom spilleren og lyset og lag den litt stor.
 ![box trigger](https://user-images.githubusercontent.com/1174441/102134441-cc433c00-3e56-11eb-86eb-1967b4d66e65.png)
 
 Triggerboxen må være valgt, da får man context sensitive meny.
 koble til
 ![overlap](https://user-images.githubusercontent.com/1174441/102135152-d74a9c00-3e57-11eb-92a2-42737ed3993f.png)
+Copy-paste set visibility.
+![foo](https://user-images.githubusercontent.com/1174441/102135291-0bbe5800-3e58-11eb-978d-e6377a5371e5.png)
+
+Nå kan du sette breakpoints på (eller ta dem av) og gå inn og ut av den boksen og se at lyset går på... Men aldri av?
+![breakpoints](https://user-images.githubusercontent.com/1174441/102136399-9fdcef00-3e59-11eb-84d0-b2b82fcb0855.png)
+
+OK! Vi styrer lyset . på ihvertfall.
+
+#Incredible machihe
+
 
 Husk simualte physics
 ![overlap](https://user-images.githubusercontent.com/1174441/102136749-1a0d7380-3e5a-11eb-8c04-e7784a9f17aa.png)
 
 ![lage incredible machine](https://user-images.githubusercontent.com/1174441/102136957-63f65980-3e5a-11eb-805c-bf1d0d594901.png)
-Copy-paste set visibility.
-![foo](https://user-images.githubusercontent.com/1174441/102135291-0bbe5800-3e58-11eb-978d-e6377a5371e5.png)
-
-Nå kan du sette breakpoints på (eller ta dem av) og gå inn og ut av den boksen og se at lyset går på... Men aldri av?
-https://user-images.githubusercontent.com/1174441/102136399-9fdcef00-3e59-11eb-84d0-b2b82fcb0855.png
-
