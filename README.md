@@ -47,3 +47,7 @@ Ikke så mye ennå, men kan bli nyttig..
 
 La oss lage en box trigger. Sett den mellom spilleren og lyset og lag den litt stor.
 ![box trigger](https://user-images.githubusercontent.com/1174441/102134441-cc433c00-3e56-11eb-86eb-1967b4d66e65.png)
+
+Triggerboxen må være valgt, da får man context sensitive meny.
+koble til
+![overlap](https://user-images.githubusercontent.com/1174441/102135152-d74a9c00-3e57-11eb-92a2-42737ed3993f.png)
