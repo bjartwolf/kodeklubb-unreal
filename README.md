@@ -25,3 +25,6 @@ Velg nytt "Film, Televisino, and Live Events".
 ![ta med starter content](https://user-images.githubusercontent.com/1174441/102125793-79fc1e00-3e4a-11eb-83a3-66a1de75b52f.png)
 
 Det kan ta litt tid.
+
+Jeg drar inn et *Point light* og så flytter jeg spilleren til kanten av brettet.
+![Point light](https://user-images.githubusercontent.com/1174441/102131530-a0be5280-3e52-11eb-9301-4fb4692cbccf.png)
