@@ -15,7 +15,7 @@ Det er kanskje ikke så mye en oppgave som bare at vi lager noe greier.
 Det er på ingen måte ment å være "riktig" måte å styre lys på, det antar jeg man gjøre med DMX eller no hvis man skal gjøre noe tøft. 
 Hensikten er bare å ha noe å styre. Men det kan jo fort være riktig også. Hvem vet. Spørs hva du skal.
 
-Det første vi gjør er å lage et nytt prosjekt. Jeg bruker Unreal 4.26 nå men det bør gå i mange andre versjoner, vi skal ikke bruke så avanserte ting.
+Det første vi gjør er å lage et nytt prosjekt. Jeg bruker Unreal 4.25.4 (sliter litt nå med unreal, det bør gå i  4.26 og) nå men det bør gå i mange andre versjoner, vi skal ikke bruke så avanserte ting.
 Velg nytt "Film, Televisino, and Live Events".
 
 ![nytt prosjekt](https://user-images.githubusercontent.com/1174441/102125734-6b156b80-3e4a-11eb-806e-05df0fdc23f2.png)
