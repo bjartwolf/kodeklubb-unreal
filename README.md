@@ -38,3 +38,5 @@ Trykk på Blueprints og Level Blueprints.
 
 Da kan vi lage den her
 ![skru av](https://user-images.githubusercontent.com/1174441/102133791-f3e5d480-3e55-11eb-852c-ab36f2535575.png)
+
+Så hva skjer når vi spiller? Nå kan vi diskutere om vi ikke er tilbake til start igjen...
