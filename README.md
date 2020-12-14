@@ -13,3 +13,9 @@ i at man har en fysikkmotor og den slags. Her kan man også programmere, så man
 Det er kanskje ikke så mye en oppgave som bare at vi lager noe greier.
 
 Det første vi gjør er å lage et nytt prosjekt. Jeg bruker Unreal 4.26 nå men det bør gå i mange andre versjoner, vi skal ikke bruke så avanserte ting.
+Velg nytt "Film, Televisino, and Live Events".
+
+![nytt prosjekt](https://user-images.githubusercontent.com/1174441/102125734-6b156b80-3e4a-11eb-806e-05df0fdc23f2.png)
+![blank template] (https://user-images.githubusercontent.com/1174441/102125690-5afd8c00-3e4a-11eb-99a7-1ad1517501e5.png)
+![ta med starter content] (https://user-images.githubusercontent.com/1174441/102125793-79fc1e00-3e4a-11eb-83a3-66a1de75b52f.png)
+
