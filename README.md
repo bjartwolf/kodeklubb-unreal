@@ -30,4 +30,8 @@ Jeg drar inn et *Point light* og så flytter jeg spilleren til kanten av brettet
 ![Point light](https://user-images.githubusercontent.com/1174441/102131530-a0be5280-3e52-11eb-9301-4fb4692cbccf.png)
 
 Når man da trykker play eller <kbd>alt</kbd><kbd>p</kbd> så burde man se et lite lys.
-Hvis man har god tid så kan man bygge litt ting rundt lyset sitt så man får litt mer skygge. Strengt tatt ikke nøye. Eller slette sola. Alt etter hva man føler for.
+Hvis man har god tid så kan man bygge litt ting rundt lyset sitt så man får litt mer skygge. Strengt tatt ikke nøye. Eller slette sola. Alt etter hva man føler for. kan skru opp lyset til 20 candela. Sånne ting.
+
+Trykk på Blueprints og Level Blueprints.
+
+![litt kode](https://user-images.githubusercontent.com/1174441/102133671-bed98200-3e55-11eb-918c-dbe9ffbc9723.png)
