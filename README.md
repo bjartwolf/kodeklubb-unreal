@@ -65,12 +65,9 @@ OK! Vi styrer lyset . på ihvertfall.
 
 
 Husk simualte physics
+
 ![overlap](https://user-images.githubusercontent.com/1174441/102136749-1a0d7380-3e5a-11eb-8c04-e7784a9f17aa.png)
 
 ![lage incredible machine](https://user-images.githubusercontent.com/1174441/102136957-63f65980-3e5a-11eb-805c-bf1d0d594901.png)
 
-
-![regne litt](https://user-images.githubusercontent.com/1174441/102138073-1975dc80-3e5c-11eb-9b05-bce886455247.png)
-
-
-![Kan lage flere lys](https://user-images.githubusercontent.com/1174441/102138338-78d3ec80-3e5c-11eb-96d4-2364c0e7693a.png)
+De kan vi bare skru av visibility manuelt på. Gjerne endre farge pålyset.
