@@ -9,3 +9,6 @@ Det som er kult med Unreal er at det er litt som i Incredible Machine jeg spilte
 i at man har en fysikkmotor og den slags. Her kan man også programmere, så man kan på en måte gjøre litt av begge deler, programmere med programmeringsspråk og stable ting som interagerer fysisk. Det kan fort bli meta.
 
 
+# Oppgave 1
+Det er kanskje ikke så mye en oppgave som bare at vi lager noe greier.
+
