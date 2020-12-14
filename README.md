@@ -56,3 +56,4 @@ Copy-paste set visibility.
 ![foo](https://user-images.githubusercontent.com/1174441/102135291-0bbe5800-3e58-11eb-978d-e6377a5371e5.png)
 
 Nå kan du sette breakpoints på (eller ta dem av) og gå inn og ut av den boksen og se at lyset går på... Men aldri av?
+https://user-images.githubusercontent.com/1174441/102136399-9fdcef00-3e59-11eb-84d0-b2b82fcb0855.png
