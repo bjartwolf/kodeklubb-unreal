@@ -8,6 +8,7 @@ Det som er kult med Unreal er at det er litt som i Incredible Machine jeg spilte
 ![inc machine](https://user-images.githubusercontent.com/1174441/102125050-571d3a00-3e49-11eb-8a18-0aa65892ed44.png)
 i at man har en fysikkmotor og den slags. Her kan man også programmere, så man kan på en måte gjøre litt av begge deler, programmere med programmeringsspråk og stable ting som interagerer fysisk. Det kan fort bli meta.
 
+For å gjøre dette må man laste ned og installere [Unreal Engine](https://www.unrealengine.com/) 
 
 # Oppgave 1
 Det er kanskje ikke så mye en oppgave som bare at vi lager noe greier.
@@ -21,3 +22,4 @@ Velg nytt "Film, Televisino, and Live Events".
 
 ![ta med starter content](https://user-images.githubusercontent.com/1174441/102125793-79fc1e00-3e4a-11eb-83a3-66a1de75b52f.png)
 
+Det kan ta litt tid.
