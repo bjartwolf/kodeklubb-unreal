@@ -35,3 +35,6 @@ Hvis man har god tid så kan man bygge litt ting rundt lyset sitt så man får l
 Trykk på Blueprints og Level Blueprints.
 
 ![litt kode](https://user-images.githubusercontent.com/1174441/102133671-bed98200-3e55-11eb-918c-dbe9ffbc9723.png)
+
+Da kan vi lage den her
+![skru av](https://user-images.githubusercontent.com/1174441/102133791-f3e5d480-3e55-11eb-852c-ab36f2535575.png)
