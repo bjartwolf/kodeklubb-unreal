@@ -71,3 +71,6 @@ Husk simualte physics
 
 
 ![regne litt](https://user-images.githubusercontent.com/1174441/102138073-1975dc80-3e5c-11eb-9b05-bce886455247.png)
+
+
+![Kan lage flere lys](https://user-images.githubusercontent.com/1174441/102138338-78d3ec80-3e5c-11eb-96d4-2364c0e7693a.png)
