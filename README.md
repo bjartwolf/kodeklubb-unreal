@@ -43,3 +43,7 @@ Så hva skjer når vi spiller? Nå kan vi diskutere om vi ikke er tilbake til st
 
 Da skal vi lære å debugge. Da må vi først legge til et breakpoint.
 ![breakpoint](https://user-images.githubusercontent.com/1174441/102133982-3d362400-3e56-11eb-98fb-8271653a9c26.png)
+Ikke så mye ennå, men kan bli nyttig..
+
+La oss lage en box trigger. Sett den mellom spilleren og lyset og lag den litt stor.
+![box trigger](https://user-images.githubusercontent.com/1174441/102134441-cc433c00-3e56-11eb-86eb-1967b4d66e65.png)
