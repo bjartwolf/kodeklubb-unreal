@@ -52,6 +52,9 @@ Triggerboxen må være valgt, da får man context sensitive meny.
 koble til
 ![overlap](https://user-images.githubusercontent.com/1174441/102135152-d74a9c00-3e57-11eb-92a2-42737ed3993f.png)
 
+Husk simualte physics
+![overlap](https://user-images.githubusercontent.com/1174441/102136749-1a0d7380-3e5a-11eb-8c04-e7784a9f17aa.png)
+
 Copy-paste set visibility.
 ![foo](https://user-images.githubusercontent.com/1174441/102135291-0bbe5800-3e58-11eb-978d-e6377a5371e5.png)
 
