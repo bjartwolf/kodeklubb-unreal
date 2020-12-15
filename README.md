@@ -40,6 +40,7 @@ Trykk på Blueprints og Level Blueprints.
 ![litt kode](https://user-images.githubusercontent.com/1174441/102133671-bed98200-3e55-11eb-918c-dbe9ffbc9723.png)
 
 Da kan vi lage den her
+
 ![skru av](https://user-images.githubusercontent.com/1174441/102133791-f3e5d480-3e55-11eb-852c-ab36f2535575.png)
 
 Så hva skjer når vi spiller? Nå kan vi diskutere om vi ikke er tilbake til start igjen...
@@ -54,6 +55,7 @@ La oss lage en box trigger. Sett den mellom spilleren og lyset og lag den litt s
 ![box trigger](https://user-images.githubusercontent.com/1174441/102134441-cc433c00-3e56-11eb-86eb-1967b4d66e65.png)
 
 Triggerboxen må være valgt, da får man context sensitive meny.
+Husk å ha valgt triggerboxen og høyre trykket for å få riktig event for triggerbox 1.
 koble til
 ![overlap](https://user-images.githubusercontent.com/1174441/102135152-d74a9c00-3e57-11eb-92a2-42737ed3993f.png)
 Copy-paste set visibility.
