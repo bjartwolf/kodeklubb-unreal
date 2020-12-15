@@ -2,7 +2,7 @@
 En slags intro til programmering som bruker Unreal Engine. Dette er egentlig for å lære litt programmering, men på en måte man raskt kan bruke i Unreal.
 Det er veldig uklart hva jeg skal gjøre med dette, eller hvor langt jeg skal gå, eller hva dette gir som ikke
 man får bedre gjennom [Blueprint tutorials](https://www.youtube.com/watch?v=EFXMW_UEDco
-). Spesifikt, hvis man vil lære lys bør man se på DMX i Unreal https://www.youtube.com/watch?v=-oIePxpasXk 
+). Spesifikt, hvis man vil lære lys bør man se på DMX i Unreal https://www.youtube.com/watch?v=-oIePxpasXk Forhåpentligvis så lærer men (nesten) nok her til å kunne henge med på hva programmeringen er i mer avanserte ting som å styre DMX. 
 Men jeg vil anta at man kan styre DMX med programmeringen man lærer her... SÅ.
 
 
