@@ -1,8 +1,10 @@
 # kodeklubb-unreal
-En slags intro til programmering som bruker Unreal Engine
+En slags intro til programmering som bruker Unreal Engine. Dette er egentlig for å lære litt programmering, men på en måte man raskt kan bruke i Unreal.
 Det er veldig uklart hva jeg skal gjøre med dette, eller hvor langt jeg skal gå, eller hva dette gir som ikke
 man får bedre gjennom [Blueprint tutorials](https://www.youtube.com/watch?v=EFXMW_UEDco
-). Det er ikke engang sikkert det er så veldig riktig, for jeg har jobbet lite med Unreal.
+). Spesifikt, hvis man vil lære lys bør man se på DMX i Unreal https://www.youtube.com/watch?v=-oIePxpasXk 
+Men jeg vil anta at man kan styre DMX med programmeringen man lærer her... SÅ.
+
 
 Det som er kult med Unreal er at det er litt som i Incredible Machine jeg spilte da jeg var liten
 ![inc machine](https://user-images.githubusercontent.com/1174441/102125050-571d3a00-3e49-11eb-8a18-0aa65892ed44.png)
